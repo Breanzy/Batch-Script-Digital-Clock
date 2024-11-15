@@ -36,3 +36,5 @@ echo      Date: %date%
 echo.
 echo ==============================
 exit /b
+
+testing
